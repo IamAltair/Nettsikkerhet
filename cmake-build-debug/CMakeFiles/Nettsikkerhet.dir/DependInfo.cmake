@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/altair/CLionProjects/Nettsikkerhet/o1/hello.cpp" "/home/altair/CLionProjects/Nettsikkerhet/cmake-build-debug/CMakeFiles/Nettsikkerhet.dir/o1/hello.cpp.o"
+  "/home/altair/CLionProjects/NettsikkerhetCloned/o1/hello.cpp" "/home/altair/CLionProjects/NettsikkerhetCloned/cmake-build-debug/CMakeFiles/Nettsikkerhet.dir/o1/hello.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

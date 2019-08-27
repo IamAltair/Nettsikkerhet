@@ -1,4 +1,4 @@
-# Install script for directory: /home/altair/CLionProjects/Nettsikkerhet
+# Install script for directory: /home/altair/CLionProjects/NettsikkerhetCloned
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/altair/CLionProjects/Nettsikkerhet/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/altair/CLionProjects/NettsikkerhetCloned/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
