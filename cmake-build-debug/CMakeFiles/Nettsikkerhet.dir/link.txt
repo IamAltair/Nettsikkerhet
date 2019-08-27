@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Nettsikkerhet.dir/o1/hello.cpp.o  -o Nettsikkerhet 
